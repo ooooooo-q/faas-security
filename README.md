@@ -9,17 +9,25 @@ FaaS のセキュリティ
 ### FaaS is ?
 
 (要調査)
+- リクエストの度に生成される
+- ステートレス
+- 時間単位での課金
 
 
 ### FaaS 
 
-- AWS Lam
+- AWS Lambda
 - Google Cloud Functions
 - Microsoft Azure Functions、
 - IBM OpenWhisk
 - Iron.io
 - Webtask
 
+
+### serverless framework
+
+- Serverless Framework
+- apex
 
 ### 経緯
 
