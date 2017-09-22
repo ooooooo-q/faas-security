@@ -19,6 +19,7 @@ FaaS のセキュリティ
 - AWS Lambda
 - Google Cloud Functions
 - Microsoft Azure Functions、
+- [OpenFaaS](https://www.openfaas.com)
 - IBM OpenWhisk
 - Iron.io
 - Webtask
@@ -84,5 +85,6 @@ FaaS のセキュリティ
 
 - policy.xmlを追加すれば防げる？
 - 他のサービスに入ってる？
+- [With OpenFaaS](https://blog.alexellis.io/serverless-imagemagick/)
 
 
